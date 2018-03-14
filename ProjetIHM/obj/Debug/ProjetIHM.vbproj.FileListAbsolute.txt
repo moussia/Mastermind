@@ -1,0 +1,22 @@
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.xml
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Resources.resources
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.vbproj.GenerateResource.Cache
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.xml
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form2.resources
+c:\users\kejler\documents\visual studio 2013\Projects\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form3.resources
+C:\Users\jeje\workspace\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+C:\Users\jeje\workspace\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+C:\Users\jeje\workspace\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.xml
+C:\Users\jeje\workspace\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+C:\Users\jeje\workspace\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.vbprojResolveAssemblyReference.cache
+C:\Users\jeje\workspace\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+C:\Users\jeje\workspace\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form2.resources
+C:\Users\jeje\workspace\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form3.resources
+C:\Users\jeje\workspace\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Resources.resources
+C:\Users\jeje\workspace\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.vbproj.GenerateResource.Cache
